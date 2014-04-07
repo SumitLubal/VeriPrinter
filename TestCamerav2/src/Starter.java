@@ -1,5 +1,6 @@
 
 public class Starter {
+	/**/
 	public static void main(final String a[]){
 		new Thread(new Runnable() {
 			
